@@ -1,2 +1,3 @@
-for i in range(135):
-    print('hello world')
+x = ['a', 'b', 'c']
+for i in x: 
+    print(i)
